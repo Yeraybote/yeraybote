@@ -1354,6 +1354,7 @@ header .logo a {
 	font-size: 1.7rem;
 	line-height: 2.4rem;
 	text-transform: uppercase;
+	padding-top: 1.8rem;
 	letter-spacing: .2rem;
 	color: #FFFFFF;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
